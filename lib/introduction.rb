@@ -8,7 +8,7 @@ def introduction(name) {
   return "Hi, my name is #{name}.";
 }
 
-# Test 2;
+# Test 2; return should be puts for Ruby!
 def introduction_with_language(name, language) {
   return  "Hi, my name is #{name} and I am learning to program in #{language}.";
 }
